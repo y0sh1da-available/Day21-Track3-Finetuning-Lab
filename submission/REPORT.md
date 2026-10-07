@@ -1,6 +1,6 @@
 # Lab 21 — Evaluation Report
 
-**Họ tên**: Đặng Hữu Cương  **MSSV**: AICB-2026-P2T3  **Ngày**: 07/10/2026  
+**Họ tên**: Đặng Hữu Cương  **MSSV**: 2A202602572  **Ngày**: 07/10/2026  
 **Tier**: `T4`  **Base model**: `unsloth/Qwen3.5-4B`  **GPU thực tế**: `Tesla T4 16GB (Google Colab)`  
 
 > Mọi con số dưới đây được đo thực tế và khớp chính xác 100% với các tệp dữ liệu trong thư mục `results/`.

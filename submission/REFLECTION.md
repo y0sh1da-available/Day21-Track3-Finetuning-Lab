@@ -1,5 +1,6 @@
 # Reflection — Lab 21
 
+**Học viên**: Đặng Hữu Cương — **MSSV**: 2A202602572  
 *Ngắn gọn, thành thật. Phần này chấm theo độ cụ thể, không theo độ dài.*
 
 **1. Điều gì làm bạn ngạc nhiên nhất?**  
